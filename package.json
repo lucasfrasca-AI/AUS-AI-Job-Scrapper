@@ -1,0 +1,15 @@
+{
+  "name": "job-scrapper",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx trigger dev",
+    "deploy": "npx trigger deploy"
+  },
+  "dependencies": {
+    "@trigger.dev/sdk": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
